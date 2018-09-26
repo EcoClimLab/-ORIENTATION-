@@ -7,12 +7,14 @@ The [CTFS-ForestGEO Ecosystems & Climate Lab](https://sites.google.com/site/fore
 This repository contains (1) public folders with materials (data, scripts) from finished or public projects and (2) private repositories for projects that are not yet ready to be made public.
 
 
-## Other repositories associated with this lab 
-* [ForestGEO's repository](https://github.com/forestgeo)
+## Other GitHub organizations/ repositories associated with this lab 
+* [ForestGEO](https://github.com/forestgeo)
 
-* [ForC database](https://github.com/forc-db/)
+* [SCBI-ForestGEO](https://github.com/SCBI-ForestGEO)
 
-* Climate regulation services calculator [web app](https://github.com/ebimodeling/ghgvc) and  [R code](https://github.com/ebimodeling/ghgvcR)
+* [ForC-db](https://github.com/forc-db/)
+
+* Climate regulation services calculator: [web app](https://github.com/ebimodeling/ghgvc) and  [R code](https://github.com/ebimodeling/ghgvcR)
 
 ## Contact
 
