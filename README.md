@@ -11,7 +11,7 @@ This repository contains (1) public folders with materials (data, scripts) from 
 * [ForestGEO](https://github.com/forestgeo) - We are most involved with the following repos:
   - [Climate](https://github.com/forestgeo/Climate) and [Climate_private](https://github.com/forestgeo/Climate_private) - ForestGEO climate data portal
   - [allodb](https://github.com/forestgeo/allodb) - allometries database & code
-  -[Site-Data](https://github.com/forestgeo/Site-Data)
+  - [Site-Data](https://github.com/forestgeo/Site-Data)
 
 * [SCBI-ForestGEO](https://github.com/SCBI-ForestGEO) - SCBI ForestGEO plot (run by this lab)
 
