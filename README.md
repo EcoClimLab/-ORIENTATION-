@@ -8,11 +8,14 @@ This repository contains (1) public folders with materials (data, scripts) from 
 
 
 ## Other GitHub organizations/ repositories associated with this lab 
-* [ForestGEO](https://github.com/forestgeo)
+* [ForestGEO](https://github.com/forestgeo) - We are most involved with the following repos:
+  - [Climate](https://github.com/forestgeo/Climate) and [Climate_private](https://github.com/forestgeo/Climate_private) - ForestGEO climate data portal
+  - [allodb](https://github.com/forestgeo/allodb) - allometries database & code
+  -[Site-Data](https://github.com/forestgeo/Site-Data)
 
-* [SCBI-ForestGEO](https://github.com/SCBI-ForestGEO)
+* [SCBI-ForestGEO](https://github.com/SCBI-ForestGEO) - SCBI ForestGEO plot (run by this lab)
 
-* [ForC-db](https://github.com/forc-db/)
+* [ForC-db](https://github.com/forc-db/) - Global Forest Carbon Database (run by this lab)
 
 * Climate regulation services calculator: [web app](https://github.com/ebimodeling/ghgvc) and  [R code](https://github.com/ebimodeling/ghgvcR)
 
